@@ -20,7 +20,7 @@ console.log(Math.round(Math.random() * 1000));
 // Call an API for Google maps and you want to show some  dummy data
 // for your latitude and longitude on the map you can use Math.random in this case
 
-// Strings testtesttesttest
+// Strings
 
 console.log("Travis".charAt(0)); // .charAt(index)
 console.log("YouTube".substring(1, 6)); // .subString(startIndex, endIndex)
